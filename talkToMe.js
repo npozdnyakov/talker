@@ -11,3 +11,4 @@ const Mess = {
 //console.log(Math.floor(Math.random() * Mess.firstone.length));
 
 console.log(Mess.firstone[Math.floor(Math.random() * Mess.firstone.length)] + ' ' + Mess.secondone[Math.floor(Math.random() * Mess.secondone.length)] + ' ' + Mess.thirdone[Math.floor(Math.random() * Mess.thirdone.length)])
+console.log('That should have been created in the branch!');
